@@ -1,2 +1,2 @@
-# DeepLearning
-This repository contains deep learning projects: 
+# Machine Learning
+This repository contains Machine Learning projects: 
